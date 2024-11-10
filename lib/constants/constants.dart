@@ -1,0 +1,1 @@
+enum MainTab { home, limit, calculator, clients, profile }
